@@ -1,0 +1,8 @@
+/home/yusha/Documents/irtifa.yeristasyonu/obj/v4.0-Debug/irtifa.yeristasyonu.csprojAssemblyReference.cache
+/home/yusha/Documents/irtifa.yeristasyonu/obj/v4.0-Debug/Demo.WindowsForms.Properties.Resources.resources
+/home/yusha/Documents/irtifa.yeristasyonu/obj/v4.0-Debug/Demo.WindowsForms.Source.Form1.resources
+/home/yusha/Documents/irtifa.yeristasyonu/obj/v4.0-Debug/Demo.WindowsForms.Source.PFD.resources
+/home/yusha/Documents/irtifa.yeristasyonu/obj/v4.0-Debug/Demo.WindowsForms.Source.EditForm.resources
+/home/yusha/Documents/irtifa.yeristasyonu/obj/v4.0-Debug/Demo.WindowsForms.Source.PIDForm.resources
+/home/yusha/Documents/irtifa.yeristasyonu/obj/v4.0-Debug/irtifa.yeristasyonu.csproj.GenerateResource.cache
+/home/yusha/Documents/irtifa.yeristasyonu/obj/v4.0-Debug/irtifa.yeristasyonu.csproj.CoreCompileInputs.cache
